@@ -10,6 +10,14 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
 
 A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
+## Template da aplicação
+
+Para te ajudar nesse desafio, criamos para você esse modelo que você deve utilizar como um template do GitHub.
+
+O template está disponível na seguinte URL: 
+
+[GitHub - rocketseat-education/ignite-template-reactjs-conceitos-do-react](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react)
+
 ## O que devo editar na aplicação?
 
 Com o template já clonado, as depêndencias instaladas, você deve completar onde não possui código com o código para atingir os objetivos de cada teste. Nesse desafio, você deve editar apenas o seguinte arquivo para completar as funcionalidades da aplicação:
